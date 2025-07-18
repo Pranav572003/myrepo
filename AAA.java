@@ -8,6 +8,7 @@ public class AAA{
 	total=total+gstamt;
 	int gstamt=total*18/100;
 	  int a=10;
+	  int b=10;
 	System.out.println(total);
 	  System.out.println(total);
 	
