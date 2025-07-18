@@ -6,7 +6,9 @@ public class AAA{
 	int total=qty*rate;
 	int gstamt=total*18/100;
 	total=total+gstamt;
+	  
 	System.out.println(total);
+	  System.out.println(total);
 	
   }
 }
