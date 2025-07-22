@@ -11,6 +11,7 @@ public class AAA{
 	  int b=10;
 	System.out.println(total);
 	  System.out.println(total);
+	  System.out.println(total);
 	
   }
 }
